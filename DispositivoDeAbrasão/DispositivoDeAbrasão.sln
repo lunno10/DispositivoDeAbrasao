@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispositivoDeAbrasão", "DispositivoDeAbrasão\DispositivoDeAbrasão.csproj", "{DD93FFF7-61AE-437E-B439-DEC767DE8EFC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "dispositivoSetup", "dispositivoSetup\dispositivoSetup.vdproj", "{EC2502AD-4A40-4A7A-B86B-0B9B08F3A695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD93FFF7-61AE-437E-B439-DEC767DE8EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD93FFF7-61AE-437E-B439-DEC767DE8EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD93FFF7-61AE-437E-B439-DEC767DE8EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD93FFF7-61AE-437E-B439-DEC767DE8EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2502AD-4A40-4A7A-B86B-0B9B08F3A695}.Debug|Any CPU.ActiveCfg = Debug
+		{EC2502AD-4A40-4A7A-B86B-0B9B08F3A695}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {815FF5D4-D63D-477D-9824-95504C662541}
+	EndGlobalSection
+EndGlobal

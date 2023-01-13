@@ -1,0 +1,14 @@
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\bin\Debug\DispositivoDeAbrasão.exe.config
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\bin\Debug\DispositivoDeAbrasão.exe
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\bin\Debug\DispositivoDeAbrasão.pdb
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\obj\Debug\DispositivoDeAbrasão.Properties.Resources.resources
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\obj\Debug\DispositivoDeAbrasão.csproj.GenerateResource.cache
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\obj\Debug\DispositivoDeAbrasão.csproj.CoreCompileInputs.cache
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\obj\Debug\DispositivoDeAbrasão.exe
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\obj\Debug\DispositivoDeAbrasão.pdb
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\obj\Debug\DispositivoDeAbrasão.Principal.resources
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\bin\Debug\DispositivoDeAbrasão.exe.manifest
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\bin\Debug\DispositivoDeAbrasão.application
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\obj\Debug\DispositivoDeAbrasão.exe.manifest
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\obj\Debug\DispositivoDeAbrasão.application
+E:\Estudos\Eng. Mecânica\UESC\Disciplinas\TCC II\Software\DispositivoDeAbrasão\DispositivoDeAbrasão\obj\Debug\DispositivoDeAbrasão.csproj.AssemblyReference.cache
